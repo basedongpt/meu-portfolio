@@ -1,0 +1,1 @@
+Essa página se trata de uma atividade para a matéria de programação web na qual aprendemos a utilizar o Git e Github.
